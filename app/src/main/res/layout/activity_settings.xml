@@ -5,7 +5,7 @@
     android:orientation="vertical" >
     <fragment
         android:id="@+id/fragment1"
-        android:name="edu.uco.hsung.m04_settings.SettingsFragment"
+        android:name="edu.uco.hsung.m04_settings.SettingsFragmentyyyyy"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 </LinearLayout>
